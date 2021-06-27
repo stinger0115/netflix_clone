@@ -1,0 +1,4 @@
+https://api.themoviedb.org/3/movie/550?api_key=d0414e6f639db5be7d3e023cab111a1c
+
+link
+https://netflix-clone-001-6359a.web.app
